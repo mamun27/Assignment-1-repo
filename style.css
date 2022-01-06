@@ -2,3 +2,50 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+
+/* --------top section------------ */
+
+.spacing {
+    display: flex;
+    padding: 0 8%;
+}
+
+.top-left {
+    width: 50%;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+.top-right {
+    width: 50%;
+    padding: 0 50px 50px 50px;
+    
+}
+
+.top-right img {
+    width: 100%;
+}
+
+.border-left {
+    border-left: 4px solid rgb(0, 189, 189);
+    border-radius: 4px;
+}
+
+.top-title {
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+span {
+    color: rgb(0, 189, 189);
+}
+
+.btn {
+    text-decoration: none;
+    background-color: rgb(0, 189, 189);
+    color: white;
+    font-weight: 400;
+    padding:  10px 40px;
+    border-radius: 5px;
+}
+
